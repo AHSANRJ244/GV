@@ -11,7 +11,7 @@ import os,sys,time,json,random,re,string,platform,base64
 import requests
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import mechanize
-from requests.exceptions import ConnectionError
+from requests.exceptions im port ConnectionError
 import string
 try:
     import requests
