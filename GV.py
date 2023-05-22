@@ -46,13 +46,13 @@ def KHALID():
     if opt == '1':
         main()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/KHALID.CYBER.404?mibextid=ZbWKwL')
+        os.system('xdg-open https://youtube.com/@JUNGLI.244.gaming.')
         return None
     if None == '3':
-        os.system('xdg-open https://github.com/KHALID-404')
+        os.system('xdg-open https://youtube.com/@JUNGLI.244.gaming.')
         return None
     if None == '4':
-        os.system('xdg-open https://youtube.com/@KHALIDTechBd1')
+        os.system('xdg-open https://youtube.com/@JUNGLI.244.gaming.')
     if None == '0':
         os.system('exit')
         return None
@@ -156,7 +156,7 @@ def main():
 	    print(logo)
 	    tl = str(len(user))
 	    print('\033[1;93m─────────────────────────────────────────────────────')
-            print('\033[1;91m[\033[1;92m✔\033[1;91m]\033[1;92m COUNTRY CODE : \033[1;97m'+kode)
+            print('\033[1;91m[\033[1;92m✔\033[1;91m]\033[1;92m COUNTRY CODE : \033[1;97m'+code)
 	    print('\033[1;91m[\033[1;92m✔\033[1;91m]\033[1;92m TOTAL IDS : \033[1;92m'+tl)
 	    print('\033[1;91m[\033[1;92m✔\033[1;91m]\033[1;92m USE ID FROM COOKIE TO LOG IN')
 	    print('\033[1;93m─────────────────────────────────────────────────────')
